@@ -1,0 +1,6 @@
+id,created_at,country,operator,service,source,msisdn,status,cycle,adnet,revenue,subs_date,renewal_date,freemium_end_date,unsubs_from,unsubs_date,service_price,currency,profile_status,publisher,trxid,pixel,handset,browser,attempt_charging,success_billing
+27960657,35:11.6,TH,aisgemezz,GE,SMS,66624285876,1,daily,BTM,0,11:01.0,00:00.0,00:00.0,,,0,BAHT,Grace,,ad25641@CPE6:BFSkYwLR,,,,110,0
+16390,2023-09-14 06:55:32.548 +0700,OM,omantel,goaly,cp1,96899886397,0,daily,kee,0,2023-04-04 20:29:11.000 +0700,2023-04-04 20:29:21.000 +0700,,,0001-12-31 23:52:48.000 +0700,300,Rial,,lumos,,,/,Apache-HttpClient,1,0
+6571,2023-09-14 06:55:26.043 +0700,OM,omantel,goaly,cp1,96892875519,-1,daily,movi,300,2022-12-11 14:32:56.000 +0700,2022-12-12 16:46:27.000 +0700,,CCTOOL,2023-02-11 03:06:59.000 +0700,300,Rial,,lumos,,,/,,2,1
+5669917,2023-10-28 00:41:19.183 +0700,LA,etl,slypee,lp3,2023610791,-1,daily,lig,0,2023-10-27 06:18:36.000 +0700,2023-10-28 06:18:36.000 +0700,,cstool,2023-11-13 14:19:01.000 +0700,2000,LAK,inactive,lumos,,lig-653af3c546cb830001c4d3f9,LM-X220,Chrome,18,0
+390835,2023-09-13 08:45:06.436 +0700,LA,tplus,gemezz,cp1,2076320290,1,daily,marvel,53000,2023-06-25 20:59:06.000 +0700,2023-12-12 11:25:34.000 +0700,,mo_sms,2022-11-26 06:46:55.000 +0700,1000,Kip,active,lumos,,625386941,,Go-http-client,205,35

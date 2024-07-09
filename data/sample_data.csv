@@ -1,0 +1,6 @@
+id,created_at,country,operator,service,source,msisdn,status,cycle,adnet,revenue,subs_date,renewal_date,freemium_end_date,unsubs_from,unsubs_date,service_price,currency,profile_status,publisher,trxid,pixel,handset,browser,attempt_charging,success_billing
+15473,2023-09-13 09:22:37.891,TH,ais,459509902,sms,66822243661,0,daily,,0,2021-04-18 02:40:01.000,2023-09-01 00:00:00.000,2021-04-17 00:00:00.000,,,6,BATH,Active,,,,,,0,0
+181778,2023-09-13 09:36:31.469,TH,ais,459505104,sms,66616570644,0,daily,,0,2022-04-11 03:09:04.000,2023-09-14 00:00:00.000,2022-04-10 00:00:00.000,,,6,BATH,Active,,2.02309130702053e+19,,,,15,0
+7141,2023-09-14 06:55:26.540,OM,omantel,goaly,cp1,96890911054,0,daily,kee,0,2023-04-09 06:07:22.000,2023-04-09 06:07:36.000,,CCTOOL,0001-01-01 00:00:00.000,300,Rial,,lumos,,no,/,Apache-HttpClient,1,0
+16525,2023-09-14 06:55:32.616,OM,omantel,goaly,cp1,96872110799,1,daily,kee,300,2023-04-06 18:26:21.000,2023-04-24 19:09:08.000,,,0001-01-01 00:00:00.000,300,Rial,,lumos,,,/,Apache-HttpClient,2,1
+6425,2023-09-13 08:08:03.324,LA,etl,slypee,cp1,2029919042,1,daily,marvel,10000,2023-08-02 02:03:15.000,2023-08-26 07:11:48.000,,,,2000:00:00,LAK,active,lumos,,,,No Detected,25,5
